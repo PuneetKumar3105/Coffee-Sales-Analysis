@@ -1,0 +1,1 @@
+This Dashboard helps us to visualize sales according to time. It also helps to analyze various products and their product types according to time and total Footfall and the sales in different stores in different locations. It also helps to analyze average bill an average order per person according to time and about orders and quantity of orders according to time.
